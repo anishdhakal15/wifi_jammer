@@ -2,7 +2,7 @@
 import os
 import time
 import re
-
+print "\t\t\tThis Script Was Made By Anish Dhakal\n\n
 interface='wlan0'
 def selinterface():
 	try:
