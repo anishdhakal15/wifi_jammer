@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#works only on linux
 import os
 import time
 import re
